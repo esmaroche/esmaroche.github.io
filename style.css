@@ -87,8 +87,8 @@ p{
 
 .prod{
     display: inline-block;
-    margin-left: 37px;
-    margin-right: 35px;
+    margin-left: 6%;
+    margin-right: 6%;
 }
 
 .prod .desc{
@@ -102,8 +102,8 @@ p{
 
 .beauty{
     display: inline-block;
-    margin-left: 34px;
-    padding-left: 6px;
+    margin-left: 5%;
+    margin-right: 4%;
 }
 
 .beauty .desc{
@@ -117,8 +117,8 @@ p{
 
 .music{
     display: inline-block;
-    margin-left: 34px;
-    padding-left: 6px;
+    margin-left: 5%;
+    margin-right: 4%;
 }
 
 .music .desc{
@@ -132,8 +132,8 @@ p{
 
 .publ{
     display: inline-block;
-    margin-left: 34px;
-    padding-left: 6px;
+    margin-left: 5%;
+    margin-right: 4%;
 }
 
 .publ .desc{
@@ -147,8 +147,8 @@ p{
 
 .gallery{
     display: inline-block;
-    margin-left: 34px;
-    padding-left: 6px;
+    margin-left: 5%;
+    margin-right: 4%;
 }
 
 .gallery .desc{
@@ -164,8 +164,10 @@ p{
     font-family: "Poppins";
     font-weight: 400;
     font-size: 20px;
-    padding-top: 5px;
-    padding-left: 15%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 15%;
+    margin-right: 15%;
     text-align: left;
 }
 
