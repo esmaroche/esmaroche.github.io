@@ -160,6 +160,21 @@ p{
     text-align: center;
 }
 
+.video{
+    display: inline-block;
+    margin-left: 9%;
+    margin-right: 10%;
+}
+
+.video .desc{
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    margin: 5px 0px;
+    text-align: center;
+}
+
 .letra{
     font-family: "Poppins";
     font-weight: 400;
